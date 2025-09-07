@@ -33,17 +33,18 @@ We merged these datasets to build a **monetization view** (order, payment, custo
 
 Here are some insights visualized:  
 
-### 1. Total Revenue  
-![Total Revenue](figures/total_revenue.png)  
 
-### 2. Revenue by Payment Type  
-![Revenue by Payment Type](figures/revenue_by_payment.png)  
+### 1. Revenue by Payment Type
+![Revenue by Payment Type](revenue_by_payment.png)
 
-### 3. Monthly Revenue Trend  
-![Monthly Revenue](figures/monthly_revenue.png)  
+### 2. Monthly Revenue Trend
+![Monthly Revenue Trend](monthly_revenue_trend.png)
 
-### 4. Monthly ARPU Trend  
-![Monthly ARPU](figures/monthly_arpu.png)  
+### 3. Top 10 States by Revenue
+![Top 10 States by Revenue](top_10_states_by_revenue.png)
+
+### 4. Monthly ARPU Trend
+![Monthly ARPU Trend](monthly_arpu_trend.png)
 
 ---
 
